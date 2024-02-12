@@ -1,7 +1,7 @@
 # About me:
 
 - Hi, my name is Matiss 👋
-- I'm currently learning HTML, CSS and JavaScript
+- I'm currently on my web-dev journey!
 
 <!---
 matys1/matys1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
